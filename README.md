@@ -14,27 +14,27 @@ Used callbacks to avoid overfitting.For classification task training acuracy ach
 
 #### Classification Scores
 
-![](https://github.com/mahesh-iitm21/Brain-MRI-Segmentation/blob/main/flask%20demo/scores.JPG)
+![](https://github.com/mahesh-iitm21/Brain-MRI-Segmentation/blob/master/Brain-MRI-Segmentation-main/flask%20demo/scores.JPG)
 
 #### Segmentation Scores
 
-![](https://github.com/mahesh-iitm21/Brain-MRI-Segmentation/blob/main/flask%20demo/seg-scores.JPG)
+![](https://github.com/mahesh-iitm21/Brain-MRI-Segmentation/blob/master/Brain-MRI-Segmentation-main/flask%20demo/seg-scores.JPG)
 
 # Flask Demo
 
 Made a flask app for testing the model that can detect the tumor and then stores the data to a csv file.Below is the demo of the web app
 
-![](https://github.com/mahesh-iitm21/Brain-MRI-Segmentation/blob/main/flask%20demo/ezgif.com-gif-maker.gif)
+![](https://github.com/mahesh-iitm21/Brain-MRI-Segmentation/blob/master/Brain-MRI-Segmentation-main/flask%20demo/ezgif.com-gif-maker.gif)
 
 <br>
 
-![](https://github.com/mahesh-iitm21/Brain-MRI-Segmentation/blob/main/flask%20demo/flask1.jpeg)
+![](https://github.com/mahesh-iitm21/Brain-MRI-Segmentation/blob/master/Brain-MRI-Segmentation-main/flask%20demo/flask1.jpeg)
 
 <br>
 
-![](https://github.com/mahesh-iitm21/Brain-MRI-Segmentation/blob/main/flask%20demo/flask2.jpeg)
+![](https://github.com/mahesh-iitm21/Brain-MRI-Segmentation/blob/master/Brain-MRI-Segmentation-main/flask%20demo/flask2.jpeg)
 
 # Predictions
 
 Here are the below predictions for 3 images
-![](https://github.com/mahesh-iitm21/Brain-MRI-Segmentation/blob/main/flask%20demo/predictions.JPG)
+![](https://github.com/mahesh-iitm21/Brain-MRI-Segmentation/blob/master/Brain-MRI-Segmentation-main/flask%20demo/predictions.JPG)
